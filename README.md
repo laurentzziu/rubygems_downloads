@@ -1,4 +1,6 @@
-# Rubygems Downloads
+[![Build Status](https://travis-ci.org/laurentzziu/rubygems_downloads.svg?branch=master)](https://travis-ci.org/laurentzziu/rubygems_downloads)
+
+# RubyGems Downloads
 
 ## Installation
 
