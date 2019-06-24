@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
 module RubygemsDownloads
-  VERSION = '0.1.0'
+  module CLI
+  end
 end
