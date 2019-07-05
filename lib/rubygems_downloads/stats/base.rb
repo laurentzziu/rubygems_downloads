@@ -1,22 +1,19 @@
 # frozen_string_literal: true
 
 require 'httparty'
+require 'callable_class'
 
 module RubygemsDownloads
   module Stats
     class Base
+      include CallableClass
+
       attr_reader :name
 
       def initialize(name)
         @name = name
 
         raise(ArgumentError, '`name` parameter invalid.') unless name.present?
-      end
-
-      # Use `callable_class` gem
-
-      def self.call(name)
-        new(name).call
       end
 
       def call
