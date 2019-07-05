@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/laurentzziu/rubygems_downloads.svg?branch=master)](https://travis-ci.org/laurentzziu/rubygems_downloads)
 [![Gem Version](https://badge.fury.io/rb/rubygems_downloads.svg)](https://rubygems.org/gems/rubygems_downloads)
-[![Maintainability](https://api.codeclimate.com/v1/badges/2b822e7586dae7602550/maintainability)](https://codeclimate.com/github/laurentzziu/rubygems_downloads/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/2b822e7586dae7602550/test_coverage)](https://codeclimate.com/github/laurentzziu/rubygems_downloads/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8236c6291fe8d7cb7521/maintainability)](https://codeclimate.com/github/laurentzziu/rubygems_downloads/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/8236c6291fe8d7cb7521/test_coverage)](https://codeclimate.com/github/laurentzziu/rubygems_downloads/test_coverage)
 
 # RubyGems Downloads
 
